@@ -1,7 +1,10 @@
-# housepal
+# E. Dự án: "Ngôi nhà Chung" (HousePal) – Trợ lý Quản lý Nhà trọ/Chung cư 
+Đây là dự án môn Phát triển ứng dụng cho thiết bị di động của nhóm chung toi.
+## Thanh vien:
 
-A new Flutter project.
-
+- Pham Duc Phu
+- Nguyen Thanh Long
+- Ta Xuan Phong
 ## Getting Started
 
 This project is a starting point for a Flutter application.
