@@ -31,6 +31,7 @@ các "nghĩa vụ" (việc nhà, tiền bạc) thành một "trò chơi" (game) 
 tự động, nơi mọi đóng góp đều được ghi nhận. 
 ### 3.Đối tượng Người dùng (Target Audience) 
 Chân dung người dùng (Persona): "Người ở Ghép" (The Flatmate) 
+
 • Mô tả: Là sinh viên ở chung 4-6 người, hoặc nhóm người đi làm thuê chung một căn hộ. 
 • Nhu cầu: 
     
